@@ -424,7 +424,7 @@
       background-color: var(--color-light-grey);
   }
 
-  ul .row {
+  ul.row {
     margin: 0;
     padding: 0;
     list-style: none;
@@ -534,6 +534,6 @@
     color: var(--text-color);
   }
 
-  ul .footer {
+  ul.footer {
     text-align: right;
   }
