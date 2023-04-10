@@ -350,7 +350,7 @@
   }
   
   /* my main css file */
-  /* section title styling */
+  /* nav bar styling */
   :root {
       --color-primary: #d73953;
       --color-black: #090909;
@@ -445,7 +445,7 @@
 
   .nav .nav-link {
     display: block;
-    padding: 0.5rem 0rem;
+    padding: 0.5rem 1rem;
   }
 
   .nav .nav-link:hover {
